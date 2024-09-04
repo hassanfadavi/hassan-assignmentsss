@@ -12,7 +12,7 @@ public class Q58_tolowercase {
 //        name.toLowerCase();
 //        name.toLowerCase();
 //        name.replaceAll("error","Warning");
-
+//
         String name=" ERROR ";
 
         String result=name.trim().toLowerCase().replaceAll("error","Warning");

@@ -12,7 +12,7 @@ public class Q57_equal {
 
 //        System.out.println(trim1);
 //        System.out.println(trim2);
-
+//
         boolean result;
 
         result=(trim1.equals(trim2)) ? true:false;
