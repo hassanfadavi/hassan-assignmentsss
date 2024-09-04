@@ -2,7 +2,7 @@ package HASSAN.ASSIGNMENT;
 
 public class Q15_Understanding_constants {
     public static void main(String[] args) {
-
+//
 //        Question 15: Understanding Constants in Java
 //
 //        Step 1: Creating a Class and Main Method
